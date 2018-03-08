@@ -1,10 +1,6 @@
 import React from 'react';
 import styles from './Stepbar.css';
 
-const inlineCSS = {
-    "background": "red",
-}
-
 class Stepbar extends React.PureComponent {
     render() {
         return (
